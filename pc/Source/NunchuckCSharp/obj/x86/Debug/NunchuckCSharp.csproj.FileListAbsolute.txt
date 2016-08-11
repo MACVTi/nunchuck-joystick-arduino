@@ -1,0 +1,11 @@
+c:\users\jack\documents\visual studio 2015\Projects\NunchuckCSharp\bin\x86\Debug\NunchuckCSharp.exe.config
+c:\users\jack\documents\visual studio 2015\Projects\NunchuckCSharp\bin\x86\Debug\NunchuckCSharp.exe
+c:\users\jack\documents\visual studio 2015\Projects\NunchuckCSharp\bin\x86\Debug\NunchuckCSharp.pdb
+c:\users\jack\documents\visual studio 2015\Projects\NunchuckCSharp\bin\x86\Debug\vJoyInterfaceWrap.dll
+c:\users\jack\documents\visual studio 2015\Projects\NunchuckCSharp\obj\x86\Debug\NunchuckCSharp.csprojResolveAssemblyReference.cache
+c:\users\jack\documents\visual studio 2015\Projects\NunchuckCSharp\obj\x86\Debug\NunchuckCSharp.exe
+c:\users\jack\documents\visual studio 2015\Projects\NunchuckCSharp\obj\x86\Debug\NunchuckCSharp.pdb
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\NunchuckCSharp\bin\x86\Debug\NunchuckCSharp.exe.manifest
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\NunchuckCSharp\bin\x86\Debug\NunchuckCSharp.application
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\NunchuckCSharp\obj\x86\Debug\NunchuckCSharp.exe.manifest
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\NunchuckCSharp\obj\x86\Debug\NunchuckCSharp.application

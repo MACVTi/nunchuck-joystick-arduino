@@ -1,0 +1,6 @@
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\NunchuckCSharp\bin\x86\Args\NunchuckCSharp.exe.config
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\NunchuckCSharp\bin\x86\Args\NunchuckCSharp.exe
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\NunchuckCSharp\bin\x86\Args\NunchuckCSharp.pdb
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\NunchuckCSharp\bin\x86\Args\vJoyInterfaceWrap.dll
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\NunchuckCSharp\obj\x86\Args\NunchuckCSharp.exe
+C:\Users\Jack\Documents\Visual Studio 2015\Projects\NunchuckCSharp\obj\x86\Args\NunchuckCSharp.pdb
